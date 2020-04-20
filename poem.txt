@@ -1,4 +1,4 @@
-The rainbow
+The rainbow, unicorn and unicorn 2
 
 Purple
 Pink
@@ -7,6 +7,7 @@ Blue
 Green
 Indigo
 Unicorn
+Unicorn 2
 Yellow
 Red
-These are the colors of the rainbow and the unicorn
+These are the colors of the rainbow, the unicorn and unicorn 2
